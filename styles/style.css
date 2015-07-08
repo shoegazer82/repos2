@@ -1,0 +1,53 @@
+html {
+	color: #000000;
+	font-size: 12px;
+	background-color: #654634;
+}
+
+body {
+	
+  width: 1024px;
+  margin: 0 auto;
+  background-color: #8ae600;
+  padding: 0 20px 20px 20px;
+  border: 5px dotted black;
+
+
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0 10px 0;
+	color: #ffffff;
+	font-size: 60px;
+	background-color: #654634;
+	font-family: 'Special Elite', cursive;	
+	text-shadow: 3px 3px 1px black;
+	text-align: center;
+	
+	
+	}
+
+h2 {
+	color: #FFFFFF;
+	font-size:45px;
+	font-family:'Special Elite',cursive;
+	text-align:center;
+	text-shadow: 3px 3px 1px black;	
+	padding: 10px;
+}
+
+p, ul {
+	font-size: 1.5em;
+	color: #000000;
+	
+}
+
+img {
+ 
+	display: block;
+	margin: 0 auto;
+	border: 5px dotted black;
+	
+ 
+}
